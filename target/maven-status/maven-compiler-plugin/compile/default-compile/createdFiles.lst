@@ -1,7 +1,0 @@
-com/javaninja/controller/ExternalController.class
-com/javaninja/SpringCloudApplication.class
-com/javaninja/controller/UserController.class
-com/javaninja/client/ExternalApiClient.class
-com/javaninja/service/UserService.class
-com/javaninja/service/ExternalService.class
-com/javaninja/model/User.class
