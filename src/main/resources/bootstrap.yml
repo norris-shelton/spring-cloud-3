@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-cloud-project
+  cloud:
+    config:
+      enabled: false
+

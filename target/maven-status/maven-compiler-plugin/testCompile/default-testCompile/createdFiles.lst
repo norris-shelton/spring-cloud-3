@@ -1,0 +1,5 @@
+com/javaninja/controller/ExternalControllerTest.class
+com/javaninja/service/ExternalServiceTest.class
+com/javaninja/controller/UserControllerTest.class
+com/javaninja/service/UserServiceTest.class
+com/javaninja/SpringCloudApplicationTests.class
